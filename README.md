@@ -2,7 +2,7 @@
 
 This repo contains a number of exmples of scripts that scrape data from APIs and web pages.
 
-You'll need to have installed `[requests](http://docs.python-requests.org/en/master/)` and `[beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)`.  You can install these with:
+You'll need to have installed [`requests`](http://docs.python-requests.org/en/master/) and [`beautifulsoup4`](https://www.crummy.com/software/BeautifulSoup/bs4/doc/).  You can install these with:
 
     pip install requests beautifulsoup4
 
